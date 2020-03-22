@@ -25,7 +25,7 @@
           <a href="{{ site.github.repository_url }}" class="button"><small>View project on</small> GitHub</a>
         {% endif %}
    
-        <a href="{{https://www.facebook.com/groups/devramstein}}" class="button">Facebook Group</a>
+        <a href="(https://www.facebook.com/groups/devramstein)" class="button">Facebook Group</a>
       </div>
     </header>
 
@@ -36,10 +36,12 @@
         </section>
 
         <aside id="sidebar">
-          {% if site.show_downloads %}
-            <a href="{{}}" class="button">
-             Facebook Group
-          </a>
+        
+          
+          
+           {% if site.github.is_user_page %}
+          <a href="{{ site.github.owner_url }}" class="button"><small>Follow us on</small> GitHub</a>
+        {% endif %}
           {% endif %}
               
         {% if site.github.is_project_page %}
