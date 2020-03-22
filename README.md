@@ -13,7 +13,7 @@ Ramstein Dorms provides Ramstein AB and Kapaun AS dorm residents with a convenie
   * [iOS Download](https://apps.apple.com/us/app/ramstein-dorms/id1427068590)
   * [Android Download]()
   ### TickerIO
-Ramstein Dorms provides Ramstein AB and Kapaun AS dorm residents with a convenient and reliable method to contact the DRC, submit work orders, and be up-to-date with any dorm related issues. One of the problems that we are facing is that airmen are not reporting dorms issues to the DRC in a timely manner, by providing this app, airmen will be able to describe their problem with a push of a button.
+TickerIO is a free, minimalistic app to quickly display local and Zulu (military) time, as well as the Julian date.
 
   * [iOS Download](https://apps.apple.com/us/app/tickerio/id1481563898)
   * [Android Download](https://play.google.com/store/apps/details?id=com.threetwentyfivedesigns.tickerio&hl=en_US&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1)
