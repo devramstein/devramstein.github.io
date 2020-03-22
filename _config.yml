@@ -1,4 +1,5 @@
 theme: jekyll-theme-architect
 title: "{Dev} Ramstein"
 description: Software Development Club
+show_downloads: ["true"]
 
