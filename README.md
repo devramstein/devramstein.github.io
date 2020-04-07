@@ -21,4 +21,5 @@ TickerIO is a free, minimalistic app to quickly display local and Zulu (military
   
 ## Contact Us 
 Visit our [Facebook Group](https://www.facebook.com/groups/devramstein/)
+Visit our [Facebook Page](https://www.facebook.com/devramstein/)
 
