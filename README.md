@@ -3,7 +3,7 @@
 {Dev} Ramstein is a group for anyone interested in software development, graphic design, or engineering at Ramstein Air Base in Germany. Anyone is welcome regardless of skill. You can teach, learn, find others to build a project with, and enjoy the community.
 
 ## Upcoming Classes
-* Introduction to HTML and CSS - April 14, 2019 @ 2000
+
 
 ## Our Current Projects
   
